@@ -1,0 +1,15 @@
+.section1 p {
+    font-size: 20px;
+    text-align: left;
+    text-transform: lowercase;
+    text-decoration: underline; 
+}
+.section1 blockquote {
+    background-color: rgb(69, 69, 69);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline; 
+    padding: 20px;
+}
