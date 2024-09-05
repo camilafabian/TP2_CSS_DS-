@@ -61,3 +61,23 @@ section {
     box-shadow: 5px 5px 10px 0.3px;
     background-color: rgb(67, 202, 195);
 }
+/*POSICIONAMIENTO*/
+.relativo {
+    background-color: #ff99e5;
+    position: relative;
+    padding: 5px;
+    margin: 5px;
+    top: 0;
+    left: 5px;
+}
+
+.absoluto {
+    background-color: #da51ba;
+    color: white;
+    position: absolute;
+    padding: 5px;
+    margin: 5px;
+    left: 50vw;
+    top: 30rem;
+}
+
